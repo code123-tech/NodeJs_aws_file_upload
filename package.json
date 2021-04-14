@@ -12,14 +12,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.885.0",
     "crypto-js": "^4.0.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "multer": "^1.4.2",
     "reflect-metadata": "^0.1.13",
     "typeorm": "^0.2.31"
   },
   "devDependencies": {
     "@types/express": "^4.17.11",
+    "@types/multer": "^1.4.5",
     "@types/node": "^14.14.37",
     "nodemon": "^2.0.7",
     "ts-node": "^9.1.1",
