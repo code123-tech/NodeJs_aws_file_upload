@@ -5,4 +5,8 @@
 
 <img src="https://res.cloudinary.com/swap2001/image/upload/v1618406198/Software_Design_df1abf.png" alt="Archietecture" style="width:100%" />
 
-<h4>Used Packages</h4>
+### Used Packages
+* multer (For Image Uploading on server side)
+* aws-sdk (For using aws services)
+* cors (cors for working according to cors policy)
+* express (Noder js Framework)
