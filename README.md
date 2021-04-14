@@ -14,3 +14,11 @@
 ### End Points
 * **/** :  Home Page Request
 * **/upload**: For Uploading File To this End Point.
+
+### Clone this Repository using following steps 
+* First create a clone of repository.
+* install typescript modules like ts-node, typescript etc. 
+
+<code>npm install --save-dev ts-node typescript @types/express @types/multer nodemon</code>
+
+* Run your server using - <code>npm run dev</code>
