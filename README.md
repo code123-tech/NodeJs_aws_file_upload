@@ -13,4 +13,4 @@
 
 ### End Points
 * **/** :  Home Page Request
-* **/upload **: For Uploading File To this End Point.
+* **/upload**: For Uploading File To this End Point.
