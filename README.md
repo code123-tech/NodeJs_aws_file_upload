@@ -12,5 +12,5 @@
 * express (Noder js Framework)
 
 ### End Points
-* "/":  Home Page Request
-* "/upload" : For Uploading File To this End Point.
+* **/** :  Home Page Request
+* **/upload **: For Uploading File To this End Point.
