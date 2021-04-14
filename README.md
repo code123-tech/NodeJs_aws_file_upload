@@ -10,3 +10,7 @@
 * aws-sdk (For using aws services)
 * cors (cors for working according to cors policy)
 * express (Noder js Framework)
+
+### End Points
+* "/":  Home Page Request
+* "/upload" : For Uploading File To this End Point.
